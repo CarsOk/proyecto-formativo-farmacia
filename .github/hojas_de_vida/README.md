@@ -28,7 +28,7 @@ Baranoa, 06 de diciembre de
 
 ## Referencias personales
 
-|Nombre |Ocupacion |telefono |
+|Nombre |Ocupacion | |
 |-----|-----|-----|
 |Alfredo Barrios |Medico| |
 |Alfredo Marquez |Gefe facturacion| |
