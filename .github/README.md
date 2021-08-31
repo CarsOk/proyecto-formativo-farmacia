@@ -42,4 +42,3 @@ Baranoa, 06 de diciembre de
 ## ACTA DE GRADO
 
 <img src="https://scontent.fbaq1-1.fna.fbcdn.net/v/t39.30808-6/p526x296/240186262_2063505837131735_3127452489066860405_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeFbmiwvr3svFPiZ_G8-ofWsthABMZeycHC2EAExl7JwcCmfJYImOrRxl-EMWDCnd1xbyces7khWJxrLwAOkYgQn&_nc_ohc=oOAKjb1jiesAX-dn14r&_nc_ht=scontent.fbaq1-1.fna&oh=98433170b4312a848475d738fb89f5bf&oe=61253BDB" width="400">
-
