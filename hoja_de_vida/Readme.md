@@ -8,11 +8,6 @@
 
 <li>Apellido:Marquez Marquez</li> 
 
- <li>Cedula:  1.001.788.700</li> 
-
- <li>Telefono: 3007633201</li>
-
-<li>Direcion: Kra 12a 12-93</li> 
 </al>
 
 <!-- formacion academica -->
