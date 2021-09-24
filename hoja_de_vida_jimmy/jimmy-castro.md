@@ -1,6 +1,6 @@
 # HOJA DE VIDA
 
-<img src="img/photo.jpg">
+<img src="img/photo.jpg width="300">
 
 
 ## Datos Personales
@@ -51,7 +51,7 @@
 | HOMOLOGAR EN LA U. SIMON BOLIVAR PARA CONSEGUIR TITULO COMO IGN SISTEMAS Y LABORAR EN UNA POTENCIA MUNDIAL|
 
 ## DIPLOMA SECUNDARIA
-<img src= "img/diplom.jpg">
+<img src= "img/diplom.jpg width="300">
 
 
 
