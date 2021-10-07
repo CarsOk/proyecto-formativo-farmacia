@@ -9,6 +9,6 @@
 <img src="img/start.jpeg" width="350">
 
 
-## DESCRIpCION DE LA UTILIDAD EN EL PROYECTO
+## DESCRIPCION DE LA UTILIDAD EN EL PROYECTO
 
-Con estos aplicativos se dara el avance del proyecto, mediante la programcion aprendida, tales programas como Visual Code, Atom, startuml, gitbash y otras mas con las que se tendra avance, con lo aprendido, se implementara en el proyecto formativo (Farmavision), en esto implementaremos los codigos usados o mediante el proceso del curso 
+Con estos aplicativos se dara el avance del proyecto, mediante la programcion aprendida, tales programas como Visual Code, Atom, startuml, gitbash y otras mas con las que se tendra avance, con lo aprendido, se implementara en el proyecto formativo (Farmavision), en esto implementaremos los codigos usados o mediante el proceso del curso
