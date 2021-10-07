@@ -1,2 +1,2 @@
 # Integrantes del grupo
-* [The Research Machines](hojas_de_vidas)
+* [Research Machines](hojas_de_vidas)
