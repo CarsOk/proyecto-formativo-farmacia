@@ -11,4 +11,4 @@
 
 ## DESCRICION DE LA UTILIDAD EN EL PROYECTO
 
-Con estos aplicativos se dara el avance del proyecto, mediante la programcion aprendida, tales programas como Visual Code, Atom, startuml, gitbash y otras mas con las que se tendra avance 
+Con estos aplicativos se dara el avance del proyecto, mediante la programcion aprendida, tales programas como Visual Code, Atom, startuml, gitbash y otras mas con las que se tendra avance, con lo aprendido, se implementara en el proyecto formativo (HOTEL) 
