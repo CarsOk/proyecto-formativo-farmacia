@@ -1,7 +1,7 @@
 # Proyecto Farmavision
 
 ## Nombre grupo
-**THE RESEARCH MACHINES**
+**RESEARCH MACHINES**
 
 We are students of the sena, we study the information system analysis and development program, we are in the first term, we like the program too much and we want to have very good results in the application of the project.
 
